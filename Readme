@@ -1,0 +1,32 @@
+# Effective Billboard Analytics
+A Geo-Spatial Decision-Support Tool for Targeted Out-of-Home Advertising
+
+## Overview
+This ArcGIS Pro-based prototype enables users to optimize billboard placement based on:
+- Target audience (age group)
+- Visibility Score (VAC proxy)
+- Budget tiers
+- Real-world billboard images and locations
+
+## Use Case
+Example: A fitness brand targeting 20–35-year-olds can instantly find suitable billboard locations with high visibility and balanced cost.
+
+## Key Features
+- Age-based filtering
+- VAC score visualized as halo
+- Custom icons by price category
+- Pop-ups with billboard images
+- Map built for Berlin, Hamburg, Frankfurt, Munich
+
+## Files Included
+- `Billboardmap.ppkx`: ArcGIS Pro project
+- `GEO_billboard_ppt.pdf`: Final presentation & documentation
+
+## Future Plans
+- Add dynamic footfall data
+- Nationwide billboard integration
+- Deploy on ArcGIS Online or Experience Builder
+
+## Contact
+Manovarma Krishnasamy Thalaivar
+M.Sc. Data Science, Hochschule Fulda  
